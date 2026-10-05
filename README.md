@@ -14,7 +14,7 @@ npm test
 npm run dev
 ```
 
-UI:  http://localhost:5173
+UI: http://localhost:5173
 
 Production, as a single process:
 
